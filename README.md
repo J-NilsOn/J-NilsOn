@@ -3,6 +3,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-NilsOn&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-NilsOn&show_icons=true&theme=merko&layout=compact&hide=handlebars)
 
+<br align="center">
+
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
