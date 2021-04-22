@@ -3,10 +3,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-NilsOn&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-NilsOn&show_icons=true&theme=merko&layout=compact&hide=handlebars)
 
-<br align="center">
+<br>
 
 <h3>Things I code with</h3>
-<p>
+<p align="center">
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
